@@ -2,7 +2,7 @@
 - 👀 I’m interested in Golang and Kubernetes
 - 🌱 I’m currently learning Golang
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: placeboy@zju.edu.cn
+- 📫 How to reach me: psychoogopher@gmail.com
 
 <!---
 Placeboy/Placeboy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
